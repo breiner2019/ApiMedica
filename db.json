@@ -58,8 +58,8 @@
                         "Total":1,
                         "Info":"se usan para aliviar el dolor leve a moderado",
                         "Contraindicacciones":"diarrea, estreñimiento, flatulencia o distensión abdominal, dolor de cabeza ,mareos, zumbido en los oídos"
-                    }
-                ]
+                    }],
+                    "estado":"reclamado"
 
                 },
                 {
@@ -76,9 +76,25 @@
                         "Total":4,
                         "Info":"La hidroclorotiazida se utiliza sola y en combinación con otros medicamentos para tratar la hipertensión arterial",
                         "Contraindicacciones":"micción frecuente, diarrea, pérdida de apetito, dolor de cabeza, pérdida del cabello"
-                    }
-
-                ]
+                    }],
+                    "estado":"reclamado"
+                },
+                {
+                    "id":1002,
+                    "Fecha":"10/10/2023",
+                    "Motivo":"ARDOR EN EL ESTOMAGO",
+                    "Diagnostico":"REFLUJO",
+                    "Medicamentos":[{
+                        "id":2001,
+                        "Nombre":"OMEPRAZOL",
+                        "Tipo":"inyeccion",
+                        "Cantidad":1,
+                        "Tiempo":24,
+                        "Total":4,
+                        "Info":"La hidroclorotiazida se utiliza sola y en combinación con otros medicamentos para tratar la hipertensión arterial",
+                        "Contraindicacciones":"micción frecuente, diarrea, pérdida de apetito, dolor de cabeza, pérdida del cabello"
+                    }],
+                    "estado":"No-reclamado"
                 }
             
             ]
