@@ -19,7 +19,7 @@
                 
                 "Patologias":
                     {
-                        "Nombre":"Hipertension",
+                        "Nombre":"HIPERTENSION",
                         "Descripcion":"Se considera que la persona presenta hipertensión cuando su tensión arterial es demasiado elevada"
                     },
                 "Medicamentos-Alegicos":{
@@ -71,7 +71,7 @@
                     "Diagnostico":"HIPERTENSION",
                     "Medicamentos":[{
                         "id":2101,
-                        "Nombre":"hidroclorotiazida",
+                        "Nombre":"HIDROCLOROTIAZIDA",
                         "Tipo":"inyeccion",
                         "Cantidad":1,
                         "Tiempo":24,
