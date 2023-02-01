@@ -39,7 +39,7 @@
                         "Cantidad":"75mg",
                         "Tiempo":24,
                         "Total":4,
-                        "Codigo":"SM00662";
+                        "Codigo":"SM00662",
                         "Info":"se usan para aliviar el dolor leve a moderado",
                         "Contraindicacciones":"diarrea, estreñimiento, flatulencia o distensión abdominal, dolor de cabeza ,mareos, zumbido en los oídos"
                     },
@@ -50,7 +50,7 @@
                         "Cantidad":"8mg",
                         "Tiempo":24,
                         "Total":4,
-                         "Codigo":"SM00652";
+                         "Codigo":"SM00652",
                         "Info":" Alivia la inflamación (hinchazón, calor, enrojecimiento y dolor)",
                         "Contraindicacciones":"malestar estomacal, irritación del estómago, vómitos, cefalea (dolor de cabeza), mareos, insomnio"
                     },
@@ -61,7 +61,7 @@
                         "Cantidad":"10mg",
                         "Tiempo":24,
                         "Total":1,
-                         "Codigo":"SM00632";
+                         "Codigo":"SM00632",
                         "Info":"se usan para aliviar el dolor leve a moderado",
                         "Contraindicacciones":"diarrea, estreñimiento, flatulencia o distensión abdominal, dolor de cabeza ,mareos, zumbido en los oídos"
                     }],
@@ -80,7 +80,7 @@
                         "Cantidad":"5mg",
                         "Tiempo":24,
                         "Total":30,
-                         "Codigo":"SM00642";
+                         "Codigo":"SM00642",
                         "Info":"La hidroclorotiazida se utiliza sola y en combinación con otros medicamentos para tratar la hipertensión arterial",
                         "Contraindicacciones":"micción frecuente, diarrea, pérdida de apetito, dolor de cabeza, pérdida del cabello"
                     }],
@@ -98,7 +98,7 @@
                         "Cantidad":2,
                         "Tiempo":8,
                         "Total":10,
-                         "Codigo":"SM00762";
+                         "Codigo":"SM00762",
                         "Info":"para tratar los síntomas de la enfermedad por reflujo gastroesofágico (ERGE)",
                         "Contraindicacciones":"estreñimiento, gases, náusea"
                     }],
