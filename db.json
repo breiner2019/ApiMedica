@@ -1,7 +1,7 @@
 {
     "Usuarios":
 
-        [
+        [{
             "id": 11803233,
             "Nombre": "Oscar",
             "Apellidos": "Mosquera Moreno",
@@ -109,7 +109,7 @@
                     
                 
             }
-        ]
+        }]
           
     
 }
