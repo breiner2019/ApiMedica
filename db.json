@@ -15,7 +15,7 @@
                     "Telefono":"3207617977",
                     "Correo":"elbreym13@gmail.com"
                 },
-            "HistoriaClinica":{
+            "HistoriaClinica":[{
                 
                 "Patologias":
                     {
@@ -108,7 +108,7 @@
             ]
                     
                 
-            }
+            }]
         }]
           
     
