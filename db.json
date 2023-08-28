@@ -6,13 +6,13 @@
             "Nombre": "Oscar",
             "Apellidos": "Mosquera Moreno",
             "Edad": 44,
-            "Telefono": 3135111098,
+            "Telefono": "3135111098",
             "Direccion": "calle 300 b/ santodomingo",
             "Acudiente":
                 {
                     "id":1028041790,
                     "Nombre":"Breiner Mosquera",
-                    "Telefono":3207617977,
+                    "Telefono":"3207617977",
                     "Correo":"elbreym13@gmail.com"
                 },
             "HistoriaClinica":{
