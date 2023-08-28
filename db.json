@@ -17,16 +17,16 @@
                 },
             "HistoriaClinica":{
                 
-                "Patologias":
+                "Patologias":[
                     {
                         "Nombre":"HIPERTENSION",
                         "Descripcion":"Se considera que la persona presenta hipertensión cuando su tensión arterial es demasiado elevada"
-                    },
-                "Medicamentos-Alegicos":{
+                    }],
+                "Medicamentos-Alegicos":[{
                     "Nombre":"Penicilina",
                     "Descripcion":"La penicilina V potásica se usa para tratar algunas infecciones provocadas por bacterias",
                     "Efectos-Secundarios":"sarpullido,urticaria,picazón"
-                },
+                }],
                 "Recetas":[{
                     "id":1001,
                     "Fecha":"10/10/2010",
