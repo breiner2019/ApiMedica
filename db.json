@@ -69,12 +69,12 @@
 
                 },
                 {
-                    "Id":1002,
+                    "id":1002,
                     "Fecha":"10/10/2008",
                     "Motivo":"MAREO REPENTINO",
                     "Diagnostico":"HIPERTENSION",
                     "Medicamentos":[{
-                        "id":2101,
+                        "Id":2101,
                         "Nombre":"HIDROCLOROTIAZIDA",
                         "Tipo":"inyeccion",
                         "Cantidad":"5mg",
@@ -87,12 +87,12 @@
                     "estado":"reclamado"
                 },
                 {
-                    "Id":1003,
+                    "id":1003,
                     "Fecha":"10/10/2023",
                     "Motivo":"ARDOR EN EL ESTOMAGO",
                     "Diagnostico":"REFLUJO",
                     "Medicamentos":[{
-                        "id":2031,
+                        "Id":2031,
                         "Nombre":"OMEPRAZOL",
                         "Tipo":"pastillas",
                         "Cantidad":2,
