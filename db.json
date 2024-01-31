@@ -33,7 +33,7 @@
                     "Motivo":"DOLOR EN EL PIE DERECHO",
                     "Diagnostico":"LESION MENOR",
                     "Medicamentos":[{
-                        "id":2601,
+                        "Id":2601,
                         "Nombre":"DICLOFENACO SODICO",
                         "Tipo":"inyeccion",
                         "Cantidad":"75mg",
@@ -44,7 +44,7 @@
                         "Contraindicacciones":"diarrea, estreñimiento, flatulencia o distensión abdominal, dolor de cabeza ,mareos, zumbido en los oídos"
                     },
                     {
-                        "id":2004,
+                        "Id":2004,
                         "Nombre":"DEXAMETASONA",
                         "Tipo":"inyeccion",
                         "Cantidad":"8mg",
@@ -55,7 +55,7 @@
                         "Contraindicacciones":"malestar estomacal, irritación del estómago, vómitos, cefalea (dolor de cabeza), mareos, insomnio"
                     },
                     {
-                        "id":2023,
+                        "Id":2023,
                         "Nombre":"DICLOFENACO",
                         "Tipo":"GEL",
                         "Cantidad":"10mg",
@@ -69,7 +69,7 @@
 
                 },
                 {
-                    "id":1002,
+                    "Id":1002,
                     "Fecha":"10/10/2008",
                     "Motivo":"MAREO REPENTINO",
                     "Diagnostico":"HIPERTENSION",
@@ -87,7 +87,7 @@
                     "estado":"reclamado"
                 },
                 {
-                    "id":1003,
+                    "Id":1003,
                     "Fecha":"10/10/2023",
                     "Motivo":"ARDOR EN EL ESTOMAGO",
                     "Diagnostico":"REFLUJO",
